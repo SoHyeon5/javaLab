@@ -12,6 +12,12 @@ public class MemberExample {
 		} else {
 			System.out.println("ob11과 obj2는 동등하지 않습니다.");
 		}
+		
+		if(obj1.equals(obj3)) {
+			System.out.println("obj1과 obj2는 동등합니다.");
+		} else {
+			System.out.println("ob11과 obj2는 동등하지 않습니다.");
+		}
 
 	}
 
